@@ -12,4 +12,4 @@ client.on("message", async message => {
       if(!content) return;
           chatbot.getReply(content).then(r => message.channel.send(r));
             });
-client.login('NzkzMTIxODYxNDE1MzM3OTg1.X-nqSw.yrsb-sT8ro_jLlCYvFxI_lTj5KM');
+client.login('NzkzMTIxODYxNDE1MzM3OTg1.X-nqSw.SJIAdad45dMjPM69vgbLLW0YDXs');
